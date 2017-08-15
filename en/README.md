@@ -10,9 +10,12 @@
 
 5. Click on the green flag now. That’s the animation complete! 
 
-6. You’re just missing a background. Click on the Stage and select Backdrops. Click under New Backdrop, and either choose from the library (first icon) or draw your own (paintbrush). To delete a backdrop, click on the scissors and click the backdrop you want to delete.
+6. You’re just missing a background. Click on the Stage and select Backdrops. Click under New Backdrop, and either choose from the library (first icon) or draw your own (paintbrush). 
+    * To delete a backdrop, click on the **Scissors** icon at the top of the screen and click the backdrop you want to delete.
+    ![](ScratchDelete.png)
 
-7. Click on the Duplicate icon (next to scissors [SCREENSHOT] ) and click your sprite. Now there are two of them! Duplicate it as many times as you like.
+7. Click on the **Duplicate** icon next to the scissors and click your sprite. Now there are two of them! Duplicate it as many times as you like.
+    ![](ScratchDuplicate.png)
 
 8. To change a sprite’s costume, click on the sprite and go to the Costumes tab. Click the first icon under **New Costume** to add a costume from the library. Add two new costumes: you need two that are nearly the same to make the wings flap. 
     * To delete a costume, click on the scissors and click the costume you want to get rid of.
