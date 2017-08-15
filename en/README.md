@@ -61,5 +61,5 @@
 
 16. Do as many as you like! What animals are in your zoo?
 
-17. To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/begin-html-sushi and try the Beginner HTML CSS Sushi cards!
+To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/begin-html-sushi and try the Beginner HTML CSS Sushi cards!
 
