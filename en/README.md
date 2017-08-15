@@ -1,7 +1,11 @@
 1. Open Scratch and create a new project.
-Click the first icon next to New Sprite, and choose a sprite from the library. Go to Animals and choose Butterfly1. It says “Costumes: 2” when you select it. If you prefer you can pick any other flying animal that has 2 costumes!
 
-2. In the Sprites panel, click your sprite. Add the following script to your sprite:
+2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library. 
+    ![](ScratchNewCostume.png)    
+
+3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo.
+
+2. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite:
     ![](ScratchBlocksA.png)
 
 3. Click on the green flag and watch the wings flap!
@@ -11,7 +15,7 @@ Click the first icon next to New Sprite, and choose a sprite from the library. G
 
 5. Click on the green flag now. That’s the animation complete! 
 
-6. You’re just missing a background. Click on the Stage and go to the Backdrops tab. Click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead.
+6. You’re just missing a background. In the bottom left corner, you'll see the **Stage**. click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead.
     ![](ScratchNewBackdrop.png)
     * To delete a backdrop, click on the **Scissors** icon at the top of the screen and click the backdrop you want to delete.
     ![](ScratchDelete.png)
@@ -22,7 +26,7 @@ Click the first icon next to New Sprite, and choose a sprite from the library. G
 8. To change a sprite’s costume, click on the sprite and go to the **Costumes** tab. Click the first icon under **New Costume** to add a costume from the library. Add two new costumes: you need two that are nearly the same to make the wings flap. 
     * You can delete costumes using the Scissors button, or click on the **x** on the costume you want to get rid of.
 
-9. You can also draw your own costumes. How about a bee instead of a butterfly? Click the **paintbrush** under New Costume.
+9. Why not try drawing your own costumes?  How about a bee instead of a butterfly? Click the **paintbrush** under New Costume.
 Draw a bee (or whatever you like). Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position.
 
 
