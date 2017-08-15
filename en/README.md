@@ -20,7 +20,6 @@
 9. You can also draw your own! How about a bee instead of a butterfly? Select the paintbrush under New Costume.
 Draw a bee (or whatever you like). Then click the Duplicate button and click the costume you just made. In the second costume, change the wings so they are in a different position.
 
-<!--
+
 {% callout %}Why not turn your animation into a game?? Visit dojo.soy/shark-game to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
 {% endcallout %}
--->
