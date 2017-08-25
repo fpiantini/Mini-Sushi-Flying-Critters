@@ -17,10 +17,9 @@
 6. You’re just missing a background. In the bottom left corner, you'll see the **Stage**. click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead.
     ![](StageNewBackdrop.png)
     * To delete a backdrop, click on the **Scissors** icon at the top of the screen and click the backdrop you want to delete.
-    ![](ScratchDelete.png)
 
 7. Let's make more flying things! Click on the **Duplicate** icon next to the scissors and click your sprite. Now there are two of them! Duplicate it as many times as you like. You can use the **Scissors** button to delete sprites.
-    ![](ScratchDuplicate.png)
+    ![](DuplicateButton.png)
 
 8. Once you've duplicated the hippo, you can change the costumes on the new sprites if you want. Remember to choose two costumes that are nearly the same for the animation to work!
 
