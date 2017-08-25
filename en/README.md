@@ -15,7 +15,7 @@
 5. Click on the green flag now. That’s the animation complete! 
 
 6. You’re just missing a background. In the bottom left corner, you'll see the **Stage**. click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead.
-    ![](ScratchNewBackdrop.png)
+    ![](NewBackdrop.png)
     * To delete a backdrop, click on the **Scissors** icon at the top of the screen and click the backdrop you want to delete.
     ![](ScratchDelete.png)
 
@@ -24,7 +24,7 @@
 
 8. Once you've duplicated the hippo, you can change the costumes on the new sprites if you want. Remember to choose two costumes that are nearly the same for the animation to work!
 
-9. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position.
+9. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
 
 
 {% callout %}Why not turn your animation into a game?? Visit dojo.soy/shark-game to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
