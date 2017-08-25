@@ -1,9 +1,8 @@
 1. Open Scratch and create a new project.
 
-2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library. 
-    ![](ScratchNewCostume.png)    
+2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
 
-3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little `x`.
+3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little **x**. ![](NewCostumesHippo.png)
 
 2. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite:
     ![](ScratchBlocksA.png)
@@ -11,7 +10,7 @@
 3. Click on the green flag and watch the wings flap!
 
 4. Next add the following blocks:
-    ![](ScratchBlocksA.png)
+    ![](ScratchBlocksB.png)
 
 5. Click on the green flag now. That’s the animation complete! 
 
@@ -25,8 +24,7 @@
 
 8. Once you've duplicated the hippo, you can change the costumes on the new sprites if you want. Remember to choose two costumes that are nearly the same for the animation to work!
 
-9. Why not try drawing your own costumes?  How about a bee instead of a butterfly? Click the **paintbrush** under New Costume.
-Draw a bee (or whatever you like). Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
+9. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position.
 
 
 {% callout %}Why not turn your animation into a game?? Visit dojo.soy/shark-game to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
