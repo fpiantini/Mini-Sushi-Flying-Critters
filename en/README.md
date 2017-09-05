@@ -21,5 +21,5 @@
 
 9. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
 
-{% callout %}Why not turn your animation into a game?? Visit dojo.soy/shark-game to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
+{% callout %}Why not turn your animation into a game?? Visit dojo.soy/begin-sushi-scratch to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
 {% endcallout %}

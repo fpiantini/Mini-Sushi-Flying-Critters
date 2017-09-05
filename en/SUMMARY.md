@@ -1,5 +1,4 @@
-#Summary
+# Summary
 
-* [Getting Setup](README.md)
-
+* [Flying Critters](README.md)
 
