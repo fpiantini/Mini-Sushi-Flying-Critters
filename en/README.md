@@ -1,4 +1,4 @@
-1. Open Scratch and create a new project. TESTY MC TESTFACE!!
+1. Open Scratch and create a new project. TESTY MC TESTFACE!!!
 
 2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
 
