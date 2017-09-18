@@ -4,11 +4,11 @@
 
 3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little **x**. ![](NewCostumesHippo.png)
 
-2. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite: ![](ScratchBlocksA.png)
+4. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite: ![](ScratchBlocksA.png)
 
-3. Click on the green flag and watch the wings flap!
+5. Click on the green flag and watch the wings flap!
 
-4. Next add the following blocks: ![](ScratchBlocksB.png)
+6. Next add the following blocks: ![](ScratchBlocksB.png)
 
 5. Click on the green flag now. That’s the animation complete! 
 
