@@ -23,5 +23,5 @@
 
 ![](whitespace_105_800.png)
 
-{% callout %}Why not turn your animation into a game?? Visit dojo.soy/mini-scratch-begin to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
+{% callout %}Why not turn your animation into a game? Visit dojo.soy/mini-scratch-begin to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too! To see this card online or print out more, go to dojo.soy/mini-sushi-scratch
 {% endcallout %}
