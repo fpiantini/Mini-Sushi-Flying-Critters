@@ -1,6 +1,4 @@
-In this project you're going to make some animated flying hippos!
-
-1. Open Scratch and create a new project.
+1. In this project you're going to make some animated flying hippos! Open Scratch and create a new project.
 
 2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
 
@@ -23,7 +21,7 @@ In this project you're going to make some animated flying hippos!
 
 11. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **Duplicate** button \(remember, it's next to the **Scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
 
-![](whitespace_100_800.png)
+![](whitespace_110_800.png)
 
 {% callout %}Why not turn your animation into a game?? Visit dojo.soy/mini-scratch-begin to find out how in the Beginner Scratch Sushi Cards, and earn yourself a digital badge too!
 {% endcallout %}
