@@ -21,7 +21,7 @@
 
 11. ¿Por qué no pruebas a diseñar tus propios trajes?  ¿Qué te parece una abeja en lugar de un hipopótamo? Haz clic en el **pincel** en New Costume y dibuja tu personaje. A continuación, haz clic en el botón **duplicar** \(recuerda, está al lado de las **tijeras**\) y haz clic en el traje que acabas de crear.   En el segundo traje, cambia las alas de tal modo que estén en otra posición. ![](CostumesDrawBees.png)
 
-![](whitespace_105_800.png)
+![](whitespace_20_800.png)
 
-{% callout %}<span style="color: #000000;">¿Por qué no transformas tu animación en un juego? Visita <b>http://dojo.soy/mini-scratch-begin</b> para averiguar cómo en Beginner Scratch Sushi Cards, ¡y gana <br />una insignia digital! Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
+{% callout %}<span style="color: #000000;">¿Por qué no transformas tu animación en un juego? Visita <b>http://dojo.soy/mini-scratch-begin</b> para averiguar cómo en Beginner Scratch Sushi Cards, ¡y gana una insignia digital! Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
 {% endcallout %}
