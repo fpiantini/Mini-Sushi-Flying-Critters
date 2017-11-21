@@ -1,27 +1,27 @@
-1. In this project you're going to make some animated flying hippos! Open Scratch and create a new project.
+1. In questo progetto, realizzerai degli ippopotami volanti animati! Apri Scratch e crea un nuovo progetto.
 
-2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
+2. Modifichiamo quel gatto in qualcosa con le ali. Fai clic sul gatto e vai alla scheda **Costumes** (Costumi). Fai clic sulla prima icona sotto a **New costume** (Nuovo costume) per scegliere un costume dalla raccolta.   
 
-3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little **x**. ![](NewCostumesHippo.png)
+3. Trova l’_ippopotamo volante_. Ce ne sono due: selezionane uno e fai clic su **OK**. Aggiungi quindi un altro costume seguendo la stessa procedura e seleziona l’altro ippopotamo volante. Elimina i due costumi dei gatti facendo clic sulla piccola **x**. ![](NewCostumesHippo.png)
 
-4. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite: ![](ScratchBlocksA.png)
+4. Ora facciamo volare gli ippopotami! Nel pannello Sprites, fai clic sul tuo sprite. Aggiungi la seguente sintassi al tuo sprite: ![](ScratchBlocksA.png)
 
-5. Click on the green flag and watch the wings flap!
+5. Fai clic sulla bandierina verde e guarda lo sbattere delle ali!
 
-6. Next add the following blocks: ![](ScratchBlocksB.png)
+6. Aggiungi quindi i seguenti blocchi: ![](ScratchBlocksB.png)
 
-7. Click on the green flag now. That’s the animation complete! 
+7. Fai clic ora sulla bandierina verde. L’animazione è completa! 
 
-8. You’re just missing a background. In the bottom left corner, you'll see the Stage. click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead. ![](NewBackdropSmaller.png)
-    * To delete a backdrop, click on the **scissors** icon at the top of the screen and click the backdrop you want to delete.
+8. Ti manca solo lo sfondo. Nell’angolo in basso a sinistra, vedrai lo Stage. Fai clic sulla prima icona sotto New Backdrop (Nuovo sfondo) per sceglierne uno dalla raccolta. Se preferisci, puoi realizzarne uno tuo. In tal caso, dovrai fare clic sull’icona **paintbrush** (Disegna un nuovo sfondo). ![](NewBackdropSmaller.png)
+    * Per rimuovere uno sfondo, fai clic sull’icona **scissors** (forbici) situata nella parte superiore della schermata e quindi sullo sfondo che desideri eliminare.
 
-9. Let's make more things fly! Click on the **duplicate** icon next to the scissors and click your sprite. Now there are two of them! Duplicate it as many times as you like. You can use the **scissors** button to delete sprites. ![](ScratchDuplicateBtnCircled.png)
+9. Facciamo volare altri elementi! Fai clic sull’icona **duplicate** (duplica) situata di fianco alle forbici e quindi sullo sprite. Adesso ne hai due! Duplicali quante volte vuoi. Puoi utilizzare le **scissors** (forbici) per rimuovere gli sprite. ![](ScratchDuplicateBtnCircled.png)
 
-10. Once you've duplicated the hippo, you can change the costumes on the new sprites if you want. Remember to choose two costumes that are nearly the same for the animation to work!
+10. Se lo desideri, una volta duplicato l’ippopotamo, puoi modificare i costumi dei nuovi sprite. Ricorda di scegliere due costumi simili per far funzionare l’animazione!
 
-11. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **duplicate** button \(remember, it's next to the **scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
+11. Perché non provi a disegnare tu i costumi?  Magari un’ape invece di un ippopotamo? Fai clic su **paintbrush** (Disegna un nuovo costume) sotto a New Costume (Nuovo costume) e disegna il tuo personaggio. Fai clic sul pulsante **duplicate** (duplica) \(ricorda: si trova di fianco a **scissors** (forbici)\) e fai clic sul costume che hai appena realizzato. Nel secondo costume, modifica le ali in modo che siano in una posizione diversa. ![](CostumesDrawBees.png)
 
 ![](whitespace_105_800.png)
 
-{% callout %}<span style="color: #000000;">Why not turn your animation into a game? Visit <b>http://dojo.soy/mini-scratch-begin</b> to find out how in the Beginner Scratch Sushi Cards, and earn <br />yourself a digital badge too! To see this card online or print out more, go to <b>http://dojo.soy/mini-sushi-scratch</b> </span>
+{% callout %}<span style="color: #000000;">Perché non trasformiamo l’animazione in un gioco? Visita <b>http://dojo.soy/mini-scratch-begin</b> per scoprire come con le Sushi Card per principianti di Scratch e aggiudicati <br />anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
 {% endcallout %}

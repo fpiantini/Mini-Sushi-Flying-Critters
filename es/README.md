@@ -1,27 +1,27 @@
-1. In this project you're going to make some animated flying hippos! Open Scratch and create a new project.
+1. En este proyecto, ¡vas a crear hipopótamos animados voladores! Abre Scratch y crea un nuevo proyecto.
 
-2. Let's change that cat into something with wings. Click on the cat and go to the **Costumes** tab. Click the first icon under **New costume** to choose a costume from the library.   
+2. Transformemos el gato en algo con alas. Haz clic en el gato y ve a la ficha **Costumes**. Haz clic en el primer icono de **New costume** para seleccionar un traje en la biblioteca.   
 
-3. Find the _flying hippo_. There are two: select one of them and click **OK**. Then add another costume the same way, and select the other flying hippo. Delete the two cat costumes by clicking on the little **x**. ![](NewCostumesHippo.png)
+3. Localiza _flying hippo_. Hay dos: selecciona uno y haz clic en **OK**. A continuación, añade otro traje del mismo modo y selecciona el otro hipopótamo volador. Borra los dos trajes de gato haciendo clic en la pequeña **x**. ![](NewCostumesHippo.png)
 
-4. Now let's make the hippo fly! In the Sprites panel, click your sprite. Add the following script to your sprite: ![](ScratchBlocksA.png)
+4. Ahora, ¡hagamos que el hipopótamo vuele! En el panel Sprites, haz clic en un sprite. Añade el siguiente texto a tu sprite. ![](ScratchBlocksA.png)
 
-5. Click on the green flag and watch the wings flap!
+5. Haz clic en el indicador verde, ¡y observa las alas aletear!
 
-6. Next add the following blocks: ![](ScratchBlocksB.png)
+6. A continuación, añade los siguientes bloques. ![](ScratchBlocksB.png)
 
-7. Click on the green flag now. That’s the animation complete! 
+7. Haz clic en el indicador verde. ¡Has completado la animación! 
 
-8. You’re just missing a background. In the bottom left corner, you'll see the Stage. click the first icon under New Backdrop to choose one from the library. If you prefer, you can make your own background. To do this, click on the **paintbrush** icon instead. ![](NewBackdropSmaller.png)
-    * To delete a backdrop, click on the **scissors** icon at the top of the screen and click the backdrop you want to delete.
+8. Solamente falta un fondo. En la esquina inferior izquierda verás Stage. Haz clic en el primer icono de New Backdrop para seleccionar uno en la biblioteca. Si lo prefieres, puedes crear tu propio fondo. Para ello, haz clic en el icono **pincel**. ![](NewBackdropSmaller.png)
+    * Para borrar un fondo, haz clic en el icono **tijeras** en la parte superior de la pantalla y haz clic en el fondo que quieras borrar.
 
-9. Let's make more things fly! Click on the **duplicate** icon next to the scissors and click your sprite. Now there are two of them! Duplicate it as many times as you like. You can use the **scissors** button to delete sprites. ![](ScratchDuplicateBtnCircled.png)
+9. ¡Hagamos volar más cosas! Haz clic en el icono **duplicar** al lado de las tijeras y haz clic en tu sprite. ¡Ahora hay dos! Duplica tantas veces como quieras. Podrás usar el botón **tijeras** para borrar sprites. ![](ScratchDuplicateBtnCircled.png)
 
-10. Once you've duplicated the hippo, you can change the costumes on the new sprites if you want. Remember to choose two costumes that are nearly the same for the animation to work!
+10. Cuando hayas duplicado el hipopótamo, podrás cambiar los trajes en los nuevos sprites si lo deseas. Recuerda, ¡selecciona dos trajes que sean casi idénticos para que la animación funcione!
 
-11. Why not try drawing your own costumes?  How about a bee instead of a hippo? Click the **paintbrush** under New Costume and draw your character. Then click the **duplicate** button \(remember, it's next to the **scissors**\) and click the costume you just made. In the second costume, change the wings so they are in a different position. ![](CostumesDrawBees.png)
+11. ¿Por qué no pruebas a diseñar tus propios trajes?  ¿Qué te parece una abeja en lugar de un hipopótamo? Haz clic en el **pincel** en New Costume y dibuja tu personaje. A continuación, haz clic en el botón **duplicar** \(recuerda, está al lado de las **tijeras**\) y haz clic en el traje que acabas de crear.   En el segundo traje, cambia las alas de tal modo que estén en otra posición. ![](CostumesDrawBees.png)
 
 ![](whitespace_105_800.png)
 
-{% callout %}<span style="color: #000000;">Why not turn your animation into a game? Visit <b>http://dojo.soy/mini-scratch-begin</b> to find out how in the Beginner Scratch Sushi Cards, and earn <br />yourself a digital badge too! To see this card online or print out more, go to <b>http://dojo.soy/mini-sushi-scratch</b> </span>
+{% callout %}<span style="color: #000000;">¿Por qué no transformas tu animación en un juego? Visita <b>http://dojo.soy/mini-scratch-begin</b> para averiguar cómo en Beginner Scratch Sushi Cards, ¡y gana <br />una insignia digital! Para ver esta tarjeta online o para imprimir más, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
 {% endcallout %}
