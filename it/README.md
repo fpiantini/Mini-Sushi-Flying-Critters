@@ -22,6 +22,7 @@
 11. Perché non provi a disegnare tu i costumi?  Magari un’ape invece di un ippopotamo? Fai clic su **Disegna un nuovo costume** sotto a **Nuovo costume** e disegna il tuo personaggio. Fai clic sul pulsante **duplica** \(ricorda: si trova di fianco a **forbici**\) e fai clic sul costume che hai appena realizzato. Nel secondo costume, modifica le ali in modo che siano in una posizione diversa. ![](CostumesDrawBees.png)
 
 ![](whitespace_20_800.png)
+![](whitespace_10_800.png)
 
 {% callout %}<span style="color: #000000;">Perché non trasformiamo l’animazione in un gioco? Visita <b>http://dojo.soy/mini-scratch-begin</b> per scoprire come con le Sushi Card per principianti <br />di Scratch e aggiudicati anche un adesivo digitale! Per visualizzare questa scheda online o per stamparne altre, visita <b>http://dojo.soy/mini-sushi-scratch</b> </span>
 {% endcallout %}
